@@ -1,15 +1,15 @@
 title:              Hare Krishna Japan
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+email:              nitaigourtokyo@gmail.com
+description:        マントラヨガ、バガヴァッドギーター、バクテｲヨガ
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/"
+url:                "https://www.harekrishna.jp"
 
 # Social Profiles
 twitter_username:   TokyoKrishna
 github_username:    
 facebook_username:  HareKrishnaTokyo
-instagram_username:  
+instagram_username:  harekrishnatokyo
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
